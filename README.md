@@ -7,37 +7,51 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tecnologías y herramientas
 
-### 🌐 Frontend
-- **Frameworks & Librerías:** React, Next.js, Flutter  
-- **Lenguajes & Estilos:** JavaScript, TypeScript, HTML5, CSS3  
-
-### ⚙️ Backend
-- **Lenguajes:** C#, Python, TypeScript  
-- **Frameworks:** ASP.NET Core, Node.js, Express  
-
-### 🗄️ Bases de Datos
-- SQL Server  
-- PostgreSQL  
-- Firebase  
-
-### 🔧 Herramientas & Otros
-- Git & GitHub  
-- Strapi  
-- Figma  
-- Docker (aprendiendo 🚀)  
+### 🔤 Lenguajes  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Edwing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgaelC&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgaelC&layout=compact&theme=radical)  
+### 📚 Frameworks y librerías  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Projects
+### 🗄️ Bases de datos  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Herramientas  
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Proyectos Destacados
 🔹 [AutoStar-Project](https://github.com/EgaelC/AutoStar-Project)  
 🔹 [ecommerce-NexusCore](https://github.com/EgaelC/ecommerce-NexusCore)  
 🔹 [WebApi-ChinkuE](https://github.com/EgaelC/WebApi-ChinkuE)  
