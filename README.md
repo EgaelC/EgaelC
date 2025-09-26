@@ -11,9 +11,9 @@
 
 ### 🔤 Lenguajes  
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,8 +52,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-🔹 [AutoStar-Project](https://github.com/EgaelC/AutoStar-Project)  
 🔹 [ecommerce-NexusCore](https://github.com/EgaelC/ecommerce-NexusCore)  
+🔹 [AutoStar-Project](https://github.com/EgaelC/AutoStar-Project)  
 🔹 [WebApi-ChinkuE](https://github.com/EgaelC/WebApi-ChinkuE)  
 
 ---
