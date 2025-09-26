@@ -2,8 +2,9 @@
 
 ### 🚀 Engineer in Progress | Backend & Frontend Enthusiast 
 
-🎯 Goal: Become a **Fullstack Engineer** with a focus on performance and scalability. 
-💡 Passionate about learning and building projects that combine a **solid backend** with a **dynamic frontend**.
+🎯Goal: Become a **Fullstack Engineer** with a focus on performance and scalability.   
+
+💡Passionate about learning and building projects that combine a **solid backend** with a **dynamic frontend**.
 ---
 
 ## 🧰 TECHNOLOGIES AND TOOLS
