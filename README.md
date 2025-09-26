@@ -2,14 +2,15 @@
 
 ### 🚀 Engineer in Progress | Backend & Frontend Enthusiast  
 
-💡 Apasionado por aprender y construir proyectos que mezclan **backend sólido** con **frontend dinámico**.  
-🎯 Objetivo: Convertirme en un **Fullstack Engineer** con enfoque en rendimiento y escalabilidad.  
+
+💡 Passionate about learning and building projects that combine a **solid backend** with a **dynamic frontend**.
+🎯 Goal: Become a **Fullstack Engineer** with a focus on performance and scalability. 
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 TECHNOLOGIES AND TOOLS
 
-### 🔤 Lenguajes  
+### 🔤 LANGUAGES  
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,7 +23,7 @@
 
 ---
 
-### 📚 Frameworks y librerías  
+### 📚 FRAMEWORKS AND LIBRARIES
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -33,7 +34,7 @@
 
 ---
 
-### 🗄️ Bases de datos  
+### 🗄️ DATABASES
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -41,7 +42,7 @@
 
 ---
 
-### 🛠️ Herramientas  
+### 🛠️ TOOLS  
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,7 +52,7 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌FEATURED PROJECTS 
 🔹 [ecommerce-NexusCore](https://github.com/EgaelC/ecommerce-NexusCore)  
 🔹 [AutoStar-Project](https://github.com/EgaelC/AutoStar-Project)  
 🔹 [WebApi-ChinkuE](https://github.com/EgaelC/WebApi-ChinkuE)  
@@ -59,7 +60,7 @@
 ---
 
 ## 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/1JSTJqkT5qHq8MDJnJbRE1?si=f8ed19ed03524353)  
 
 ---
 
